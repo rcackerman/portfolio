@@ -1,15 +1,15 @@
-title: Pudhina Fresh # Shown in header on pages with full_logo: true
-short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
+title: Rebecca Ackerman # Shown in header on pages with full_logo: true
+short_logo: RA. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
+  Rebecca Ackerman researches, designs, and builds things at the intersection of public policy and technology.
+url: "https://ackerman.work" # Site base URL
 
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
-  homepage: https://ritijjain.com # This links to your name in post meta
+  name: Rebecca Ackerman
+  github: rcackerman # GitHub username, used for GitHub icon on the top right
+  linkedin: rcackerman # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  email: rcackerman@gmail.com # Used for email icon on the top right
+  homepage: https://ackerman.work # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments

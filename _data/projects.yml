@@ -1,53 +1,57 @@
-- name: Project One # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
+- name: CWS/NS - Snapshot
+  id: cwds # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
   description_less: > # Description shown at all times
-    <p>This part of the project description is visible at all times.</p> 
+    <p>Making a new case management system that works with social workers, instead of against them.</p> 
   description_more: > # Description shown only when the project card is expanded
-    <p>This part is only seen when you click on the project card.</p> 
-
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-
-  tags: [tag1, tag2] # A list of tags
-
-- name: Pudina Fresh Jekyll Theme
-  id: pf
-  img_src: 
-  description_less: >
-    <p>A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
-  description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
-
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-
-  tags: [jekyll, open-source]
-
-- name: Project Two
-  id: p2
-  img_src: 
-  description_less: >
-    <p>Refer to docs to learn how to add your own projects.</p>
-  description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p> California’s redesigned child welfare case management system needed to be easy to use and collect accurate data. As a design team with a strong policy background and understanding of the user interface-data interaction, we focused on <strong>how to make a new system that made children safer by being a source of information to caseworkers, rather than just another system they needed to work around</strong>.</p>
 
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
 
-  tags: [tag3, docs]
+  tags: [qualitative, policy]
 
-- name: Project Three
-  id: p3
+- name: Promptly
+  id: promptly
+  img_src: 
+  description_less: >
+    <p>Reducing churn among CalFresh clients.</p>
+  description_more: >
+
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [qualitative, implementation]
+
+- name: Casebook
+  id: casebook
   img_src: /assets/img/weatherpie-page.png
   description_less: >
-    <p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.</p>
+    <p>Promoting best practices in child welfare through human-centered software.</p>
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Case Commons wanted to make sure the Casebook, their commercial off-the-shelf case management system, was promoting best practices in child welfare, such as frequent safety visits to foster homes and collaborative case planning, as well as providing a system where caseworkers could do their work effectively and efficiently. On the Data Science & Policy team, I worked collaboratively with product teams to inform design and infrastructure decisions.</p>
 
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
 
-  tags: [tag2, tag4]
+  tags: [quantative]
+
+- name: Cloud Access at New York County Defender Services
+  id: nycds
+  img_src: /assets/img/weatherpie-page.png
+  description_less: >
+    <p>Getting access to the cloud to improve advocacy.</p>
+  description_more: >
+    <p>New York County Defender Services (NYCDS) is one of three public defenders in Manhattan. To give the best advocacy possible, NYCDS attorneys work closely with social workers, investigators, immigration specialists, and others. However, NYCDS’ tech infrastructure was making collaboration cumbersome and prone to error.</p>
+
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+
+  tags: [implementation]
+
+- name: Cloud Access at New York County Defender Services
+  id: nycds
+  img_src: /assets/img/weatherpie-page.png
+  description_less: >
+    <p>Getting access to the cloud to improve advocacy.</p>
+  description_more: >
+    <p>New York County Defender Services (NYCDS) is one of three public defenders in Manhattan. To give the best advocacy possible, NYCDS attorneys work closely with social workers, investigators, immigration specialists, and others. However, NYCDS’ tech infrastructure was making collaboration cumbersome and prone to error.</p>
+
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+
+  tags: [implementation]
