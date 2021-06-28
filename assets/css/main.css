@@ -73,15 +73,15 @@
     float: left; }
 
   .logo, a.logo:hover {
-    font-size: 300%;
-    font-weight: 700;
+    font-size: 200%;
+    font-weight: 800;
     color: #16a085;
     display: block;
     text-decoration: none; }
 
   .menu {
     color: #828282;
-    font-size: 150%;
+    font-size: 130%;
     margin: 0px;
     margin-top: 6px;
     padding: 0px;
@@ -205,10 +205,14 @@
     margin: auto;
     margin-bottom: 3%; }
 
+  .intro {
+    margin-bottom: 3.33em;
+  }
+
   #describe-text {
     color: #565656;
-    font-style: italic;
-    font-weight: 700;
+    font-weight: 500;
+    line-height: 1.5;
     font-size: 130%; }
 
 /* =Small screen *//*************************************************************/
