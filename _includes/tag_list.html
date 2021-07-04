@@ -4,4 +4,4 @@
     {% endif %}
 {% endfor %}
 
-<a href="{{ site.url }}/tags/{{ tag }}" style="background-color: {{ tag_style }};" class="badge badge-primary">#{{ tag }}</a>
+<a href="{{ '/tags/{{ tag }}' | relative_url}}" style="background-color: {{ tag_style }};" class="badge badge-primary">#{{ tag }}</a>

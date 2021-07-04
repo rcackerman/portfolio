@@ -1,12 +1,12 @@
 <div class="card mb-4">
     {% if project.splash_img_source %}
-    <img class="card-img-top" src="{{ site.url }}{{ post.splash_img_source }}" loading="lazy">
+    <img class="card-img-top" src="{{ post.splash_img_source | relative_url }}" loading="lazy">
     {% endif %}
     <div class="card-body">
       {% for tag in project.tags %}
         {% include tag_list.html %}
       {% endfor %}
-      <h4><b><a class="stretched-link" href="{{ site.url }}{{ project.url }}">
+      <h4><b><a class="stretched-link" href="{{ project.url | relative_url }}">
             {{ project.title }}
       </a></b></h4>
       <p>{{ project.description_less }}</p>

@@ -2,7 +2,7 @@ title: Rebecca Ackerman # Shown in header on pages with full_logo: true
 short_logo: RA. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Rebecca Ackerman researches, designs, and builds things at the intersection of public policy and technology.
-url:  rcackerman.github.io/portfolio/
+url:  https://rcackerman.github.io/portfolio/
 
 author:
   name: Rebecca Ackerman
