@@ -38,6 +38,16 @@ defaults: # Recommended defaults, you may set your own
       sitemap:
         priority: 0.4
 
+collections:
+  projects:
+    output: true
+    order:
+      - cwds.md
+      - promptly.md
+      - casebook.md
+      - nycds.md
+      - participatory-data-governance.md
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]

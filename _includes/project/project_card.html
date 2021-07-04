@@ -6,10 +6,9 @@
       {% for tag in project.tags %}
         {% include tag_list.html %}
       {% endfor %}
-      <h4><b><a data-toggle="collapse" class="stretched-link" href="{{ site.url }}{{ project.url }}">
+      <h4><b><a class="stretched-link" href="{{ site.url }}{{ project.url }}">
             {{ project.title }}
       </a></b></h4>
       <p>{{ project.description_less }}</p>
-      <a href="{{ project_url }}">
     </div>
   </div>

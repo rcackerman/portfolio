@@ -15,7 +15,7 @@ sitemap:
 </div>
 
 <div class="card-columns">
-  {% for project in site.data.projects %}
-    {% include post/project_card.html %}
+  {% for project in site.projects %}
+    {% include project/project_card.html %}
   {% endfor %}
 </div>

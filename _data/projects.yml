@@ -6,7 +6,7 @@
   description_more: > # Description shown only when the project card is expanded
     <p> California’s redesigned child welfare case management system needed to be easy to use and collect accurate data. As a design team with a strong policy background and understanding of the user interface-data interaction, we focused on <strong>how to make a new system that made children safer by being a source of information to caseworkers, rather than just another system they needed to work around</strong>.</p>
 
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+    <a href="" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
 
   tags: [qualitative, policy]
 
@@ -41,17 +41,15 @@
     <p>New York County Defender Services (NYCDS) is one of three public defenders in Manhattan. To give the best advocacy possible, NYCDS attorneys work closely with social workers, investigators, immigration specialists, and others. However, NYCDS’ tech infrastructure was making collaboration cumbersome and prone to error.</p>
 
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-
   tags: [implementation]
 
-- name: Cloud Access at New York County Defender Services
-  id: nycds
+- name: Participatory Data Governance Report
+  id: participatorydata
   img_src: /assets/img/weatherpie-page.png
   description_less: >
-    <p>Getting access to the cloud to improve advocacy.</p>
+    <p>Synthesizing research on how to make data governance more democratic.</p>
   description_more: >
-    <p>New York County Defender Services (NYCDS) is one of three public defenders in Manhattan. To give the best advocacy possible, NYCDS attorneys work closely with social workers, investigators, immigration specialists, and others. However, NYCDS’ tech infrastructure was making collaboration cumbersome and prone to error.</p>
+    <p>Data governance is an issue of increasing importance in human services, but how to do it effectively is surprisingly under-studied. Through my work at the Division of Data and Improvement (DDI), within the Administration for Children and Families, I identified participatory data governance as a new area of interest for the unit.</p>
 
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-
-  tags: [implementation]
+  tags: [research, policy]
