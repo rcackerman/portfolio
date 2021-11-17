@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Casebook
 workplace: Case Commons
 description_less: Promoting best practices in child welfare through human-centered software.

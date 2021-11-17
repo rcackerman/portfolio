@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Cloud Access at New York County Defender Services
 workplace: New York County Defender Services
 description_less: Getting access to the cloud to improve advocacy.

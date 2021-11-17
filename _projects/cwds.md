@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  CWS/NS - Snapshot
 workplace: Case Commons/CWDS
 description_less: Making a new case management system that works with social workers, instead of against them.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Participatory Data Governance Report
 workplace: Division of Data and Improvement, Administration for Children and Families, US Department of Health and Human Services
 description_less: Synthesizing research on how to make data governance more democratic.
