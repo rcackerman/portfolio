@@ -283,3 +283,36 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+  .photo-wrapper {
+width: 90vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -45vw;
+  margin-right: -45vw;  }
+
+  /* Tags */
+  .badge-qualitative {
+    background-color: #0496ff;
+    color: #fff;
+  }
+
+  .badge-quantitative {
+    background-color: #FFBC42;
+  }
+
+  .badge-policy {
+    background-color: #D81159;
+    color:  #fff;
+  }
+
+  .badge-implementation {
+    background-color: #8F2D56;
+    color:  #fff;
+  }
+
+  .badge-research {
+    background-color: #EC674E;
+    color:  #fff;
+  }
