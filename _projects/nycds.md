@@ -20,13 +20,13 @@ Since I wasn’t a defense attorney or a criminal justice expert, I knew I neede
 <div class="uk-13" uk-lightbox>
 	<div class="uk-child-width-1-2@m uk-grid" uk-lightbox="animation:slide">
 		<div>
-			<a class="uk-inline" href="/assets/img/nycds/IMG_1057.jpg">
-				<img src="/assets/img/nycds/IMG_1057.jpg">
+			<a class="uk-inline" href="{{ '/assets/img/NYCDS/IMG_1057.jpg' | relative_url }}">
+				<img src="{{ '/assets/img/NYCDS/IMG_1057.jpg' | relative_url }}">
 			</a>
 		</div>
 		<div>
-			<a class="uk-inline" href="{{ '/assets/img/nycds/IMG_1058.jpg' | relative_url }}">
-				<img src="{{ '/assets/img/nycds/IMG_1058.jpg' | relative_url }}">
+			<a class="uk-inline" href="{{ '/assets/img/NYCDS/IMG_1058.jpg' | relative_url }}">
+				<img src="{{ '/assets/img/NYCDS/IMG_1058.jpg' | relative_url }}">
 			</a>
 		</div>
 	</div>
