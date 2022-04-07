@@ -25,8 +25,8 @@ Since I wasn’t a defense attorney or a criminal justice expert, I knew I neede
 			</a>
 		</div>
 		<div>
-			<a class="uk-inline" href="/assets/img/nycds/IMG_1058.jpg">
-				<img src="/assets/img/nycds/IMG_1058.jpg">
+			<a class="uk-inline" href="{{ '/assets/img/nycds/IMG_1058.jpg' | relative_url }}">
+				<img src="{{ '/assets/img/nycds/IMG_1058.jpg' | relative_url }}">
 			</a>
 		</div>
 	</div>
